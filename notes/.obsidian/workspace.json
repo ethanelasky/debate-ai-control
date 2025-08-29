@@ -1,70 +1,56 @@
 {
   "main": {
-    "id": "8c9daaa11a347c44",
+    "id": "e0f88a3183bfdc29",
     "type": "split",
     "children": [
       {
-        "id": "be6a06d3869a7961",
+        "id": "a2a68b2dbe2f411e",
         "type": "tabs",
         "children": [
           {
-            "id": "923f1c68b8ae9847",
+            "id": "72b33d567b379b39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What datasets should we use for Phase 1?.md",
+                "file": "External/Some notes on how to maximize this grant's potential.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What datasets should we use for Phase 1?"
+              "title": "Some notes on how to maximize this grant's potential"
             }
           },
           {
-            "id": "e16224bdd5623a2c",
+            "id": "f89020cdfa0b8f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potential mentors and collaborators.md",
+                "file": "Draft/General Scope/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential mentors and collaborators"
-            }
-          },
-          {
-            "id": "22a92b4e7813fcd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper notes/Training Language Models to Win Debates (Arnesen 2024).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Training Language Models to Win Debates (Arnesen 2024)"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d10308bd9016bd6c",
+    "id": "fecec1d5abde7c10",
     "type": "split",
     "children": [
       {
-        "id": "32309ef59d5dab8c",
+        "id": "e20c3a4fb7276de1",
         "type": "tabs",
         "children": [
           {
-            "id": "405d8880b45a99a4",
+            "id": "b5cf70b571e46474",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +63,7 @@
             }
           },
           {
-            "id": "de680afead453b0e",
+            "id": "77c2764ccc712e8a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +80,7 @@
             }
           },
           {
-            "id": "b19680ee4ebed98b",
+            "id": "2443fd519ca5fe3a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "ac39d3d577bcca78",
+    "id": "37c359dc2e981df4",
     "type": "split",
     "children": [
       {
-        "id": "4602a4e8d5e30b9b",
+        "id": "445dee8bcfd5bfcc",
         "type": "tabs",
         "children": [
           {
-            "id": "faf4898a4ab24b87",
+            "id": "32f99b9d672909ae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper notes/Training Language Models to Win Debates (Arnesen 2024).md",
+                "file": "Draft/General Scope/Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Training Language Models to Win Debates (Arnesen 2024)"
+              "title": "Backlinks for Outline"
             }
           },
           {
-            "id": "633bdaed17d4aa99",
+            "id": "a77db4f0b671ad88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper notes/Training Language Models to Win Debates (Arnesen 2024).md",
+                "file": "Draft/General Scope/Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Training Language Models to Win Debates (Arnesen 2024)"
+              "title": "Outgoing links from Outline"
             }
           },
           {
-            "id": "1709f9118b888358",
+            "id": "28976eb81fa9ad2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,18 +152,18 @@
             }
           },
           {
-            "id": "109473d3074f3914",
+            "id": "178dab2152bed263",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper notes/Training Language Models to Win Debates (Arnesen 2024).md",
+                "file": "Draft/General Scope/Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Training Language Models to Win Debates (Arnesen 2024)"
+              "title": "Outline of Outline"
             }
           }
         ]
@@ -197,14 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22a92b4e7813fcd3",
+  "active": "b5cf70b571e46474",
   "lastOpenFiles": [
-    "Some notes on how to maximize this grant's potential.md",
-    "Paper notes/Training Language Models to Win Debates (Arnesen 2024).md",
-    "Paper notes",
-    "Potential mentors and collaborators.md",
-    "What datasets should we use for Phase 1?.md",
-    "External/August 2025 Open Philanthropy Accepted Grant Proposal - AI Debate for Control.md",
-    "External"
+    "External/Some notes on how to maximize this grant's potential.md",
+    "Draft/General Scope/Outline.md",
+    "Draft/General Scope",
+    "External/Collaborators",
+    "External/Public",
+    "Papers/Training Language Models to Win Debates (Arnesen 2024).md",
+    "External/Funding/August 2025 Open Philanthropy Accepted Grant Proposal - AI Debate for Control.md",
+    "Papers/Notes",
+    "External/Funding",
+    "Draft/Datasets/What datasets should we use for Phase 1?.md",
+    "External/Collaborators/Potential mentors and collaborators.md",
+    "Papers",
+    "External",
+    "Draft/Datasets",
+    "Draft"
   ]
 }
