@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "e0f88a3183bfdc29",
+    "id": "8c9daaa11a347c44",
     "type": "split",
     "children": [
       {
-        "id": "a2a68b2dbe2f411e",
+        "id": "be6a06d3869a7961",
         "type": "tabs",
         "children": [
           {
-            "id": "72b33d567b379b39",
+            "id": "923f1c68b8ae9847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "External/Some notes on how to maximize this grant's potential.md",
+                "file": "External/Collaborators/Potential mentors and collaborators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some notes on how to maximize this grant's potential"
-            }
-          },
-          {
-            "id": "f89020cdfa0b8f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft/General Scope/Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline"
+              "title": "Potential mentors and collaborators"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fecec1d5abde7c10",
+    "id": "d10308bd9016bd6c",
     "type": "split",
     "children": [
       {
-        "id": "e20c3a4fb7276de1",
+        "id": "32309ef59d5dab8c",
         "type": "tabs",
         "children": [
           {
-            "id": "b5cf70b571e46474",
+            "id": "405d8880b45a99a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "77c2764ccc712e8a",
+            "id": "de680afead453b0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "2443fd519ca5fe3a",
+            "id": "b19680ee4ebed98b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "37c359dc2e981df4",
+    "id": "ac39d3d577bcca78",
     "type": "split",
     "children": [
       {
-        "id": "445dee8bcfd5bfcc",
+        "id": "4602a4e8d5e30b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "32f99b9d672909ae",
+            "id": "faf4898a4ab24b87",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/General Scope/Outline.md",
+                "file": "External/Collaborators/Potential mentors and collaborators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Outline"
+              "title": "Backlinks for Potential mentors and collaborators"
             }
           },
           {
-            "id": "a77db4f0b671ad88",
+            "id": "633bdaed17d4aa99",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/General Scope/Outline.md",
+                "file": "External/Collaborators/Potential mentors and collaborators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Outline"
+              "title": "Outgoing links from Potential mentors and collaborators"
             }
           },
           {
-            "id": "28976eb81fa9ad2d",
+            "id": "1709f9118b888358",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +137,18 @@
             }
           },
           {
-            "id": "178dab2152bed263",
+            "id": "109473d3074f3914",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/General Scope/Outline.md",
+                "file": "External/Collaborators/Potential mentors and collaborators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outline"
+              "title": "Outline of Potential mentors and collaborators"
             }
           }
         ]
@@ -183,22 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5cf70b571e46474",
+  "active": "923f1c68b8ae9847",
   "lastOpenFiles": [
-    "External/Some notes on how to maximize this grant's potential.md",
-    "Draft/General Scope/Outline.md",
-    "Draft/General Scope",
-    "External/Collaborators",
-    "External/Public",
+    "What datasets should we use for Phase 1?.md",
+    "Potential mentors and collaborators.md",
     "Papers/Training Language Models to Win Debates (Arnesen 2024).md",
-    "External/Funding/August 2025 Open Philanthropy Accepted Grant Proposal - AI Debate for Control.md",
-    "Papers/Notes",
-    "External/Funding",
-    "Draft/Datasets/What datasets should we use for Phase 1?.md",
-    "External/Collaborators/Potential mentors and collaborators.md",
     "Papers",
-    "External",
+    "External/Some notes on how to maximize this grant's potential.md",
+    "External/Funding/August 2025 Open Philanthropy Accepted Grant Proposal - AI Debate for Control.md",
+    "External/Funding",
+    "External/Collaborators/Potential mentors and collaborators.md",
+    "External/Collaborators",
+    "Draft/General Scope/Outline.md",
+    "Draft/Datasets/What datasets should we use for Phase 1?.md",
+    "Draft/General Scope",
     "Draft/Datasets",
-    "Draft"
+    "Draft",
+    "Paper notes/Training Language Models to Win Debates (Arnesen 2024).md",
+    "Some notes on how to maximize this grant's potential.md",
+    "Paper notes",
+    "External/August 2025 Open Philanthropy Accepted Grant Proposal - AI Debate for Control.md",
+    "External"
   ]
 }
